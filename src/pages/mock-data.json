@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "The Dark Knight",
+      "rating": "5",
+      "summary": "The best superhero movie of all time!",
+      "email": "frank.gomes@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Barbie",
+      "rating": "4",
+      "summary": "Wrapped in plastic its fantastic!",
+      "email": "jessica.warren@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "The Room",
+      "rating": "1",
+      "summary": "So bad, it's good",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Thor",
+      "rating": "3",
+      "summary": "The mid avenger",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Star Wars: Attack of the Clones",
+      "rating": "2",
+      "summary": "It's rough. It's course. It's irritating. It gets everywhere.",
+      "email": "raymon.edwards@email.com"
+    }
+  ]
